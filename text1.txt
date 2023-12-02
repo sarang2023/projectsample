@@ -1,0 +1,33 @@
+
+        Name: Sarang Tilloo
+        Career Objective:-sssssssssssssssssss
+        Professional Qualification:-
+        Degree:-BE-Mechanical
+        University Name:-rgpv
+        Year of Passing:-2015
+        Percentage:-67
+
+        Higher Secondary:- 
+        Board:- STATE BOARD
+        Year of Passing:-2011
+        Percentage:-80
+
+        High School:- 
+        Board:-STATE BOARD
+        Year of passing:-2009
+        Percentage:-76
+
+        Working Experience:-
+        Organization:-Hydromech Technology
+        Post:-Mechanical Engineer
+        Duration:-6 Years
+
+        Personal Details:-
+        Date of Birth:-1993-06-25
+        Gender:-MALE
+        Marital Status:-Unmarried
+        Address:-sssssssssssss
+
+        Declaration:-ok
+
+        

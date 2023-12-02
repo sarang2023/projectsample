@@ -1,0 +1,12 @@
+ICC Cricket World Cup 2023 - Points Table
+Teams	Mat	Won	Lost	Tied	NR	Pts	NRR	
+IndiaIndia  (Q)	9	9	0	0	0	18	+2.570	
+South AfricaSouth Africa  (Q)	9	7	2	0	0	14	+1.261	
+AustraliaAustralia  (Q)	9	7	2	0	0	14	+0.841	
+New ZealandNew Zealand  (Q)	9	5	4	0	0	10	+0.743	
+PakistanPakistan  (E)	9	4	5	0	0	8	-0.199	
+AfghanistanAfghanistan  (E)	9	4	5	0	0	8	-0.336	
+EnglandEngland  (E)	9	3	6	0	0	6	-0.572	
+BangladeshBangladesh  (E)	9	2	7	0	0	4	-1.087	
+Sri LankaSri Lanka  (E)	9	2	7	0	0	4	-1.419	
+NetherlandsNetherlands  (E)	9	2	7	0	0	4	-1.825	
